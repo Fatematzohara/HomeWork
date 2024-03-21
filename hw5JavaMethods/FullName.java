@@ -3,7 +3,7 @@ package hw5JavaMethods;
 public class FullName {
 
 	public String fullName(String fName, String lName) {
-		System.out.println("Family Member: " + fName + " " + lName);
+		System.out.println("Family Member:" + fName + " " + lName);
 		return "fullName";
 	}
 
