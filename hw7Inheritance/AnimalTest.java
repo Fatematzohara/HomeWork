@@ -10,6 +10,7 @@ public class AnimalTest {
 		Mammal mammal = new Mammal();
 		mammal.mammalInfo();
 		mammal.animalInfo();
+		// mammal extends animal is the example of single inheritance
 
 		System.out.println("\n----------------------------------------------------");
 		Dog dog = new Dog();
