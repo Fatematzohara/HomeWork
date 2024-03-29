@@ -7,11 +7,9 @@ public interface University {
 
 	public void teacher();
 
-//	created constructor
+//	default constructor
 
-//		public  University() {
-//	
-//	}
-	// Interfaces can not have constructors
+//		public University() {}
+	// Interfaces can not have default constructors
 
 }
