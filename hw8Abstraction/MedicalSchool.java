@@ -8,10 +8,10 @@ public abstract class MedicalSchool {
 		System.out.println("this is from non abstract method biochemistryLab");
 	}
 
-//public default void school() {
-//
-//	System.out.println("This is all from default constructor");}
-//}
-//we cannot create a default constructor in abstract class
-// Default constructors are allowed only in interfaces, not in abstract class
+	public void school() {
+
+		System.out.println("This is all from default constructor");
+
+		// we can create a default constructor in abstract class
+	}
 }
