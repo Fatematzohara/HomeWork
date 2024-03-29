@@ -9,7 +9,7 @@ public interface University {
 
 //	created constructor
 
-//		public  defaultConstructor() {
+//		public  University() {
 //	
 //	}
 	// Interfaces can not have constructors
