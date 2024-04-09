@@ -32,8 +32,8 @@ public class Daughter extends Father {
 		super.age = 345;
 		super.sex = 'M';
 		super.usCitizen = true;
-		this.birthMonth = "January";
-		this.age = 65;
+		this.birthMonth = birthMonth;
+		this.age = age;
 
 		System.out.println("Birth month is  :" + birthMonth + " ,Age: " + age);
 	}
