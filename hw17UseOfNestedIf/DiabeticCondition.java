@@ -17,6 +17,7 @@ public class DiabeticCondition {
 			} else if (hbA1c < 5.7) {
 				System.out.println("I am a healthy person");
 			}
+			scanner.close();
 		}
 
 	}
